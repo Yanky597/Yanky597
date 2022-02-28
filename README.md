@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating new things!
 - 🌱 I’m currently a cs student at touro college
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach out to me on LinkedIn @Yitzchok Teller or at Email me at yanky597@gmail.com
 
 <!---
 Yanky597/Yanky597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
