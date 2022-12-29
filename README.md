@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yanky597
 - 👀 I’m interested in creating new things!
-- 🌱 I’m currently a cs student at touro college
+- 🌱 I’m currently a looking for a software engineering position
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me on LinkedIn @Yitzchok Teller or at Email me at yanky597@gmail.com
 
